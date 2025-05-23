@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\ScannerTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAFD695-F727-4D3E-B0F1-331E0417E2DD}|ScannerTracker\\ScannerTrackerTest.csproj|d:\\project\\scannertracker\\scannertracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAFD695-F727-4D3E-B0F1-331E0417E2DD}|ScannerTracker\\ScannerTrackerTest.csproj|solutionrelative:scannertracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAFD695-F727-4D3E-B0F1-331E0417E2DD}|ScannerTracker\\ScannerTrackerTest.csproj|d:\\project\\scannertracker\\scannertracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DAFD695-F727-4D3E-B0F1-331E0417E2DD}|ScannerTracker\\ScannerTrackerTest.csproj|solutionrelative:scannertracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Project\\ScannerTracker\\ScannerTracker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ScannerTracker\\MainWindow.xaml",
+              "ToolTip": "D:\\Project\\ScannerTracker\\ScannerTracker\\MainWindow.xaml",
+              "RelativeToolTip": "ScannerTracker\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-23T07:02:26.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\ScannerTracker\\ScannerTracker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ScannerTracker\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Project\\ScannerTracker\\ScannerTracker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ScannerTracker\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:02:24.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
